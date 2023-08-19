@@ -16,15 +16,16 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     max-width: 100%;
+    padding: 40px;
 }
 
 .card {
     background-color:  #ffffff;
     border-radius: 10px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-    margin: 10px;
+    margin: 20px;
     padding: 20px;
-    width: 800px;
+    width: 750px;
 
 }
 
@@ -40,3 +41,16 @@ body {
     background-position: center;
 
 }
+
+.full-width{
+    width:100%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+[g^="clip-path"][g*="__lottie_element_465"] {
+    opacity: 0.2;
+}
+
