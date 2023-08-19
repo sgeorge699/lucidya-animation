@@ -33,3 +33,10 @@ body {
 
 }
 
+.add-bg-test{
+
+    background-image: url('../imgs/testing-bg.png');
+    background-size: cover;
+    background-position: center;
+
+}
